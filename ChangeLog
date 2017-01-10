@@ -1,3 +1,8 @@
+2017-01-10  Roberto Reale  <roberto.reale@linux.com>
+
+	* pyTrivialCache.py: Overall improvements.
+	* pyTrivialCache.ini: Removed.
+
 2015-01-29  Roberto Reale  <roberto.reale82@gmail.com>
 
 	* First release.
