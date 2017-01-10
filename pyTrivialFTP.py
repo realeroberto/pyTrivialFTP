@@ -3,7 +3,7 @@
 
 # The MIT License (MIT)
 #
-# Copyright (c) 2014-5 Roberto Reale <roberto.reale82@gmail.com>
+# Copyright (c) 2014-7 Roberto Reale <roberto.reale82@gmail.com>
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
