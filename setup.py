@@ -10,10 +10,6 @@ setup(
     url = 'https://github.com/roberto-reale/pyTrivialFTP',
     keywords = [ 'FTP' ],
     install_requires = [ 
-    'logging',
-    'logging.config',
-    'logging.config',
     'FTP',
-    'ConfigParser'
     ]
 )
