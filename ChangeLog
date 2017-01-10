@@ -2,8 +2,10 @@
 
 	* pyTrivialCache.py: Overall improvements.
 	* pyTrivialCache.ini: Removed.
-	* setup.py: Removed useless install_requires.  Updated package url.
+	* setup.py: Removed useless install_requires.  Updated package url and
+	author's email.
+	* ChangeLog: Updated author's email.
 
-2015-01-29  Roberto Reale  <roberto.reale82@gmail.com>
+2015-01-29  Roberto Reale  <roberto.reale@linux.com>
 
 	* First release.

@@ -6,7 +6,7 @@ setup(
     description = "The poor man's API for accessing data on a remote FTP repository",
     py_modules = [ 'pyTrivialFTP' ],
     author = 'Roberto Reale',
-    author_email = 'roberto.reale82@gmail.com',
+    author_email = 'roberto.reale@linux.com',
     url = 'https://github.com/robertoreale/pyTrivialFTP',
     keywords = [ 'FTP' ],
     install_requires = [ 
