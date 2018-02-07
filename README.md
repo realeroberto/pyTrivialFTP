@@ -28,3 +28,12 @@ As a module:
         conn.login()
         conn.list()
         conn.close()
+
+### Tests
+
+To run the test suite, the following environment variables should be defined; in addition, the `PYTRIVIALFTP_WD` folder should not be empty:
+
+* `PYTRIVIALFTP_HOSTNAME`
+* `PYTRIVIALFTP_USERNAME`
+* `PYTRIVIALFTP_PASSWORD`
+* `PYTRIVIALFTP_WD`
